@@ -1,4 +1,4 @@
-React-Tags
+Webinfra-React-Tags
 ===
 
 [![MIT](https://img.shields.io/npm/l/react-tag-input.svg?style=flat-square)](https://github.com/prakhar1989/react-tags/blob/master/LICENSE)
