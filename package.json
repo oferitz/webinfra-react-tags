@@ -1,6 +1,6 @@
 {
   "name": "webinfra-react-tags",
-  "version": "4.7.5",
+  "version": "4.7.6",
   "description": "React tags is a fantastically simple tagging component for your React projects",
   "main": "dist-modules/ReactTags.js",
   "scripts": {
